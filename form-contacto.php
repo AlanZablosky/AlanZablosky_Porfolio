@@ -1,6 +1,4 @@
-
-
-<div id="contacto" class="container-flex mt-5 mx-5 mb-5 pt-5 pb-5">
+<div id="contacto" class="container-flex ">
     <h3>Contacto</h3><br>
     <form action="https://formsubmit.co/a2add7ee209feedad0c5bc77a8d54377" method="POST">
         
@@ -32,3 +30,8 @@
 </div>
 <footer class="bd-footer py-4 py-md-5 mt-5 bd-body-tertiary">
 <hr class=" text-white-50">
+<style>
+    #contacto{
+        margin:100px;
+    }
+</style>
